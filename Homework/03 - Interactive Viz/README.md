@@ -1,5 +1,10 @@
 # 03 - Interactive Viz
 
+## Final interactive map
+
+![The map of grant money goes to each Swiss canton.](map.png)
+
+
 ## Deadline
 Friday October 28, 2016 at 11:59PM
 
